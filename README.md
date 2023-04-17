@@ -3,6 +3,3 @@
 <h1>Hi</h1>
 
 There's not much going around here.
-But well, here my quite inactive Twitter and Mastodon account
-https://twitter.com/DraconicDragon
-https://mastodon.social/@draconic
